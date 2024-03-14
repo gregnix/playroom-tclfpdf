@@ -1,4 +1,5 @@
-
+error msg
+```
 ::tclfpdf::ttf_getCMAP4
 debug point ::tclfpdf::ttf_getCMAP4 ekse offset
 can't read "offset": no such variable
@@ -16,13 +17,17 @@ can't read "offset": no such variable
     (procedure "AddFont" line 39)
     invoked from within
 "AddFont "DejaVu" "" "DejaVuSansCondensed.ttf" 1"
-
+```
 
 after correction of
 ttf_font.tcl
 proc ::tclfpdf::ttf_getCMAP4
 
 row 1091 and 1092
-set $offset
+```
+set $offset ...
+```
 after
-set offset
+```
+set offset ...
+```
