@@ -1,3 +1,5 @@
+for unix and macintosh SYSTEM_TTFONTS as a list
+```
 set SYSTEM_TTFONTS ""
 switch -- $::tcl_platform(platform) {
 	windows { set SYSTEM_TTFONTS "[file normalize $::env(SystemRoot)/fonts]" }
@@ -5,10 +7,10 @@ switch -- $::tcl_platform(platform) {
 	macintosh {set SYSTEM_TTFONTS [list "/System/Library/Fonts"]}
 	default { Error "Missing system path font.\n The platform: $::tc_platform(platform) isn't defined."}
 }
-
+```
 
 proc ::tclfpdf::AddFont
-
+```
 if  {$uni } {
 set ttffilename ""
 switch -- $::tcl_platform(platform) {
@@ -34,3 +36,4 @@ switch -- $::tcl_platform(platform) {
 		}
 	}
 }
+```
