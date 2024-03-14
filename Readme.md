@@ -1,6 +1,6 @@
 # Playing and testing
 
-## Tclfpdf
+## Tclfpdf 1.6 (2023) by [LAM](https://github.com/lamuzzachiodi/tclfpdf) , is a port of tFPDF
 
 ### Links
 [GitHub TclFPDF](https://github.com/lamuzzachiodi/tclfpdf)
