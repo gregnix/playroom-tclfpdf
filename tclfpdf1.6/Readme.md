@@ -31,4 +31,4 @@ Output "dash.pdf";
 ## Problems under Linux
 
 + Directory for fonts is not one, but can be several. And then again divided into subdirectories.
-+ Library directories are read-only. Font descriptions are generated dynamically and stored in ../font
++ Library directories are read-only. But here font descriptions, which can be generated dynamically, are saved in ../tclfpdf.1,6/font.
