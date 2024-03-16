@@ -45,6 +45,15 @@ PDF
 + https://en.wikipedia.org/wiki/PDF
 + https://wiki.tcl-lang.org/page/PDF
 
+CMap
+
++ https://github.com/adobe-type-tools/cmap-resources
++ https://fontforge.org/docs/ui/menus/cidmenu.html
++ https://learn.microsoft.com/en-us/typography/opentype/spec/cmap
+ 
+
+
+
 
 
   
