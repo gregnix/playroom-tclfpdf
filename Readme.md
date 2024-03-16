@@ -38,8 +38,6 @@ Font
 + [Wikipedia: Computer Font](https://en.wikipedia.org/wiki/Computer_font)
 + [Tcl/Tk wiki: font](https://wiki.tcl-lang.org/page/font)
 + [Tk man: font](https://www.tcl.tk/man/tcl/TkCmd/font.htm)
-+ https://helpx.adobe.com/de/acrobat/using/pdf-fonts.html
-+ https://docs.asciidoctor.org/pdf-converter/latest/theme/font-support/
 + https://en.wikipedia.org/wiki/PDF#Text
 
 PDF
