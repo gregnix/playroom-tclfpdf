@@ -11,6 +11,7 @@ TFPDF
 
 + http://fpdf.org/en/script/script92.php
 + http://fpdf.de/Addon-92-tfpdf.html
++ [fpdf: Adding new fonts and encodings](http://www.fpdf.org/en/tutorial/tuto7.htm)
 
 FPDF
 
