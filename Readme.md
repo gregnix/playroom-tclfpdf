@@ -36,6 +36,9 @@ Applications Data
 Font
 
 + [Wikipedia: Computer Font](https://en.wikipedia.org/wiki/Computer_font)
++ [Wikipedia: TrueType](https://en.wikipedia.org/wiki/TrueType)
++ https://en.wikipedia.org/wiki/PostScript_fonts
++ https://en.wikipedia.org/wiki/OpenType
 + [Tcl/Tk wiki: font](https://wiki.tcl-lang.org/page/font)
 + [Tk man: font](https://www.tcl.tk/man/tcl/TkCmd/font.htm)
 + https://en.wikipedia.org/wiki/PDF#Text
